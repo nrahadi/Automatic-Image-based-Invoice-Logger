@@ -5,7 +5,7 @@ In general this project works by converting image into a text, which text will b
 
 ![Blank diagram - Page 1 (13)](https://github.com/user-attachments/assets/8361d748-ced4-4b34-8b31-d6c818ef9f0f)
 
-You could see how it is working through this demo:
+You could see how it is working through this demo, for better experience you can open the Py Notebook file in Google Colab:
 
 ![20250305_151338](https://github.com/user-attachments/assets/fbae14f0-3c94-408f-b816-54606b951ff5)
 
